@@ -1,0 +1,3 @@
+This is the sample text i need to add to hello_world.text
+git add .
+git commit -m "Edit README.md and hello_world.txt"
